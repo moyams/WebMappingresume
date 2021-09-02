@@ -1,6 +1,6 @@
 # WebMappingresume
 Skye Moya
-========================
+------
 ![skyePNG](skyePNG.png)
 
 
