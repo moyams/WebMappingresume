@@ -19,7 +19,7 @@ Education
 ###### B.S. General Geography W/ Minor Anthropology, Fall 2021
 GIS certification, Fall 2021
 
-##Resources
+Resources
 ---------------
 
 https://www.esri.com/en-us/what-is-gis/overview
